@@ -57,6 +57,12 @@ An interactive dashboard was created to visualize:
 
 🔗 **[View Tableau Dashboard Here]([your-tableau-dashboard-link](https://public.tableau.com/app/profile/joyce.oruitemeka/viz/Ecommerce_17490145145870/main))**
 
+---
+## 📄 SQL Files
+
+All SQL queries used for cleaning, aggregation, and analysis are available in the 'ecommerce-sales-analysis' repo.
+
+🔗 **[View SQL File]([your-sql-file-link](https://github.com/joycetoruitemeka/ecommerce-sales-analysis/blob/main/transactions_october%20(Analyzed).sql))**
 
 ---
 
