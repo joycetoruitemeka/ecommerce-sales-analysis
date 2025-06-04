@@ -62,7 +62,8 @@ An interactive dashboard was created to visualize:
 
 All SQL queries used for cleaning, aggregation, and analysis are available in the 'ecommerce-sales-analysis' repo.
 
-🔗 **[View SQL File]([your-sql-file-link](https://github.com/joycetoruitemeka/ecommerce-sales-analysis/blob/main/transactions_october%20(Analyzed).sql))**
+🔗 **[View SQL File](https://github.com/joycetoruitemeka/ecommerce-sales-analysis/blob/main/transactions_october%20(Analyzed).sql)**
+**[View SQL File](https://github.com/joycetoruitemeka/ecommerce-sales-analysis/blob/main/transactions_november%20(Analyzed).sql)**
 
 ---
 
