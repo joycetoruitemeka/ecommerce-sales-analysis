@@ -1,0 +1,56 @@
+# --- Python-related ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Data Files ---
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.sav
+*.db
+
+# --- Tableau ---
+My Tableau Repository/Logs/
+My Tableau Repository/Temp/
+My Tableau Repository/TabOnlineSyncClient.log
+*.twb~
+*.tds~
+*.tde
+*.hyper
+*.twbx
+
+# --- SQL files backup/temp ---
+*.bak
+*.sql~ 
+*.tmp
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# --- Logs & Environments ---
+*.log
+.env
+.env.*
+
+# --- Miscellaneous ---
+*.bak
+*.swp
+*.tmp
+*.orig
